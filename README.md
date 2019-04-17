@@ -1,2 +1,2 @@
-# wot
-My mods for world of tanks.
+# World of Tanks Modifications
+IDE: PjOrion
