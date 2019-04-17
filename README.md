@@ -1,2 +1,3 @@
 # World of Tanks Modifications
-IDE: PjOrion
+IDE: PjOrion<br><br>
+Modpack: https://www.oldskool.vip/
