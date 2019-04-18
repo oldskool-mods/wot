@@ -2,5 +2,5 @@
 
 <b>Dependencys:</b> 
 
-modsListApi: https://bitbucket.org/P0LIR0ID/wot-modslist
-modSettingsApi (ProMod): https://github.com/oldskool-mods/wot/tree/master/mod_settingsApi
+modsListApi: https://bitbucket.org/P0LIR0ID/wot-modslist <br>
+modSettingsApi (ProMod): https://github.com/oldskool-mods/wot/tree/master/mod_settingsApi <br>
