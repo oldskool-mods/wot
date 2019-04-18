@@ -4,4 +4,4 @@
 
 None <br>
 
-<br><img src="https://github.com/oldskool-mods/wot/blob/master/mod_MinimapTankview/screenshot.png">
+<br><img src="https://github.com/oldskool-mods/wot/blob/master/mod_AutoEquipment/screenshot.png">
